@@ -1,6 +1,5 @@
 <?php
 /**
-* @Author 'Khaled Daghstani'
 *
 * Valid urls:
 * Must start with https or http
